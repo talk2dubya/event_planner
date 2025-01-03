@@ -5,7 +5,7 @@ const EventPlanner = () => {
     return (
         <div className="event-planner-container">
             <header>
-                <h1>Pappa Bear</h1>
+                <h1>Event Planner</h1>
             </header>
         </div>
     );
